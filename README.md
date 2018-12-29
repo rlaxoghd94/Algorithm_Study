@@ -7,8 +7,8 @@ by Nicholas Taehong Kim.
 	- Try BFS to solve this.
 
 ### Study Flow
-- **Brute force** <-- current activity
-- Greedy
+- ~~Brute force~~
+- *Greedy* <-- current activity
 - DFS/BFS
 - Dynamic
 - Back-tracking
