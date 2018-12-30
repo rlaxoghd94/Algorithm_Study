@@ -8,9 +8,22 @@ by Nicholas Taehong Kim.
 
 ### Study Flow
 - ~~Brute force~~
-- *Greedy* <-- current activity
-- DFS/BFS
+- ~Greedy~
+- **DFS/BFS** <-- current activity
 - Dynamic
 - Back-tracking
 - Sort
 - Hash
+
+### Progress
+- Programmers_kr
+	- Greedy
+		- 01_체육복 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42862))
+			- [Answer](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/01_%EC%B2%B4%EC%9C%A1%EB%B3%B5/Main.java)
+		- 02_큰수만들기 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42883))
+			- [On Progress](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/02_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Main.java)
+
+- Baekjoon
+	- DFS
+		- 단지번호붙이기_2667 ([Link](https://www.acmicpc.net/problem/2667))
+			- [Answer](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/2667.java)
