@@ -5,6 +5,7 @@ by Nicholas Taehong Kim.
 ### TODO
 - [큰수만들기](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/02_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Main.java): int range overflow occurance
 	- Try BFS to solve this.
+- Need to learn input optimization; input taking process causes error if only handled with a scanner
 
 ### Study Flow
 - ~~Brute force~~
@@ -27,3 +28,5 @@ by Nicholas Taehong Kim.
 	- DFS
 		- 단지번호붙이기_2667 ([Link](https://www.acmicpc.net/problem/2667))
 			- [Answer](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/2667.java)
+		- 유기농배추_1012 ([Link](https://www.acmicpc.net/problem/1012))
+			- [Answer](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/1012.java)
