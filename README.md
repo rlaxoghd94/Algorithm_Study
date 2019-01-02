@@ -31,7 +31,8 @@ by Nicholas Taehong Kim.
 		- 유기농배추_1012 ([Link](https://www.acmicpc.net/problem/1012))
 			- [Answer](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/1012.java)
 		- 경로찾기_11403 ([Link](https://www.acmicpc.net/problem/11403))
-			- [Answer](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/11403.java)
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/11403.java)
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/11403.cpp)
 
 
 ### Note
