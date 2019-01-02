@@ -20,16 +20,16 @@ by Nicholas Taehong Kim.
 - Programmers_kr
 	- Greedy
 		- 01_체육복 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42862))
-			- [Answer](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/01_%EC%B2%B4%EC%9C%A1%EB%B3%B5/Main.java)
+			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/01_%EC%B2%B4%EC%9C%A1%EB%B3%B5/Main.java)
 		- 02_큰수만들기 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42883))
-			- [On Progress](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/02_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Main.java)
+			- [On Progress: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/02_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Main.java)
 
 - Baekjoon
 	- DFS
 		- 단지번호붙이기_2667 ([Link](https://www.acmicpc.net/problem/2667))
-			- [Answer](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/2667.java)
+			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/2667.java)
 		- 유기농배추_1012 ([Link](https://www.acmicpc.net/problem/1012))
-			- [Answer](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/1012.java)
+			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/1012.java)
 		- 경로찾기_11403 ([Link](https://www.acmicpc.net/problem/11403))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/11403.java)
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/11403.cpp)
