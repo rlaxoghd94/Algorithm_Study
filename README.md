@@ -30,3 +30,23 @@ by Nicholas Taehong Kim.
 			- [Answer](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/2667.java)
 		- 유기농배추_1012 ([Link](https://www.acmicpc.net/problem/1012))
 			- [Answer](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/1012.java)
+		- 경로찾기_11403 ([Link](https://www.acmicpc.net/problem/11403))
+			- [Answer](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/11403.java)
+
+
+### Note
+When taking inputs, following code is worth using:
+```java
+BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+StringTokenizer st = new StringTokenizer(br.readLine());
+
+n = Integer.parseInt(st.nextToken());
+k = Integer.parseInt(st.nextToken());
+
+for (int i = 0; i < n; i++){
+	coin[i] = Integer.parseInt(br.readLine());
+}
+
+int ret = solve(0);
+System.out.println(ret == INF ? -1 : ret);
+```
