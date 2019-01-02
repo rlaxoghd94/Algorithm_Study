@@ -33,6 +33,8 @@ by Nicholas Taehong Kim.
 		- 경로찾기_11403 ([Link](https://www.acmicpc.net/problem/11403))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/11403.java)
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/11403.cpp)
+		- 영역구하기_2583 ([Link](https://www.acmicpc.net/problem/2583))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/2583.cpp)
 
 
 ### Note
