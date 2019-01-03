@@ -35,10 +35,13 @@ by Nicholas Taehong Kim.
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/11403.cpp)
 		- 영역구하기_2583 ([Link](https://www.acmicpc.net/problem/2583))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/2583.cpp)
+		- **로또_6603** ([Link](https://www.acmicpc.net/problem/6603))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/6603.cpp)
+			- mixture of a DFS and a backtracking algorithm (*Worth looking at again*)
 
 
 ### Note
-When taking inputs, following code is worth using:
+- When taking inputs, following code is worth using:
 ```java
 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 StringTokenizer st = new StringTokenizer(br.readLine());
@@ -53,3 +56,5 @@ for (int i = 0; i < n; i++){
 int ret = solve(0);
 System.out.println(ret == INF ? -1 : ret);
 ```
+
+- Since java is run on a jvm(java virtual machine), it requires much more resources and run-time than most of other languages; therefore, this is taken into account during the grading process.
