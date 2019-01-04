@@ -36,7 +36,7 @@ public class Main {
 			return number.substring(maxIdx, n_length - 1);
 
 		/*
-		 * for the remainder, remove the minimum integer until an appropriate
+		 * for the remainder, select the maximum integer until an appropriate
 		 * length is met
 		 */
 		k -= maxIdx;
