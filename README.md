@@ -38,6 +38,9 @@ by Nicholas Taehong Kim.
 		- **로또_6603** ([Link](https://www.acmicpc.net/problem/6603))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/6603.cpp)
 			- mixture of a DFS and a backtracking algorithm (*Worth looking at again*)
+		- 연결요소의개수_11724 ([Link](https://www.acmicpc.net/problem/11724))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/11724.cpp)
+			- Instead of using `int a[1001][1001]`, this code uses `vector<int> a[1001]` for better memory management
 
 
 ### Note
