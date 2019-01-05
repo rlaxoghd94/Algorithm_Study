@@ -43,7 +43,9 @@ by Nicholas Taehong Kim.
 			- Instead of using `int a[1001][1001]`, this code uses `vector<int> a[1001]` for better memory management
 	- **BFS**
 		- 미로탐색_2178 ([Link](https://www.acmicpc.net/problem/2178))
-			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/2178.java)
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/2178.cpp)
+		- 나이트의이동_7562 ([Link](https://www.acmicpc.net/problem/7562))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/7562.cpp)
 
 
 ### Note
@@ -68,3 +70,4 @@ System.out.println(ret == INF ? -1 : ret);
  - Difference between DFS and BFS (algorithm-wise):
 	- DFS uses Stack (FILO)
 	- BFS uses Queue (FIFO)
+		- *Be aware* of how you use the counter if you don't use a `visit[][]`
