@@ -25,7 +25,7 @@ by Nicholas Taehong Kim.
 			- [On Progress: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/02_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Main.java)
 	- **DFS/BFS**
 		- ***02_타겟넘버*** ([Link](https://programmers.co.kr/learn/courses/30/lessons/43165))
-			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DFS_BFS/02_\355\203\200\352\262\237\353\204\230\353\262\204/Main.cpp)
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DFS_BFS/02_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84/Main.cpp)
 			- Great example of a DFS algorithm (*Worth looking at again*)
 
 - ***Baekjoon***
@@ -76,4 +76,4 @@ System.out.println(ret == INF ? -1 : ret);
 	- BFS uses Queue (FIFO)
 		- *Be aware* of how you use the counter if you don't use a `visit[][]`
 <br></br>
- - ![alt text](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DFS_BFS/02_\355\203\200\352\262\237\353\204\230\353\262\204/target_number-diagram.png "Programmers_kr/DFS_BFS/02_타겟넘버 diagram")
+ - ![alt text](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DFS_BFS/02_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84/target_number-diagram.png "Programmers_kr/DFS_BFS/02_타겟넘버 diagram")
