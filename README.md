@@ -76,4 +76,5 @@ System.out.println(ret == INF ? -1 : ret);
 	- BFS uses Queue (FIFO)
 		- *Be aware* of how you use the counter if you don't use a `visit[][]`
 <br></br>
- - ![alt text](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DFS_BFS/02_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84/target_number-diagram.png "Programmers_kr/DFS_BFS/02_타겟넘버 diagram")
+ - `Programmers_kr/DFS_BFS/02_타겟넘버` diagram for better comprehension
+ ![alt text](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DFS_BFS/02_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84/target_number-diagram.png "Programmers_kr/DFS_BFS/02_타겟넘버 diagram")
