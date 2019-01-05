@@ -23,6 +23,10 @@ by Nicholas Taehong Kim.
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/01_%EC%B2%B4%EC%9C%A1%EB%B3%B5/Main.java)
 		- 02_큰수만들기 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42883))
 			- [On Progress: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/02_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Main.java)
+	- **DFS/BFS**
+		- ***02_타겟넘버*** ([Link](https://programmers.co.kr/learn/courses/30/lessons/43165))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DFS_BFS/02_타켓넘버/Main.cpp)
+			- Great example of a DFS algorithm (*Worth looking at again*)
 
 - ***Baekjoon***
 	- **DFS**
@@ -71,3 +75,5 @@ System.out.println(ret == INF ? -1 : ret);
 	- DFS uses Stack (FILO)
 	- BFS uses Queue (FIFO)
 		- *Be aware* of how you use the counter if you don't use a `visit[][]`
+<br></br>
+ - ![alt text](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DFS_BFS/02_타켓넘버/target_number-diagram.png "Programmers_kr/DFS_BFS/02_타겟넘버 diagram")
