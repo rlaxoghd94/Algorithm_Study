@@ -53,6 +53,8 @@ by Nicholas Taehong Kim.
 		- 숨바꼭질_1697 ([Link](https://www.acmicpc.net/problem/1697))
 			- [**On Progress**: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/1697.cpp)
 			- No clue on why this is wrong. I'm guessing the problem has to do with condition statements or variable initialization, but no clue on why this is wrong. *FIX IT LATER*
+		- 토마토_7576 ([Link](https://www.acmicpc.net/problem/7576))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/7576.cpp)
 
 
 ### Note
