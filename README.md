@@ -58,7 +58,7 @@ by Nicholas Taehong Kim.
 
 
 ### Note
-- When taking inputs, following code is worth using:
+- When taking inputs in `Java`, following code is worth using:
 ```java
 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 StringTokenizer st = new StringTokenizer(br.readLine());
@@ -73,6 +73,22 @@ for (int i = 0; i < n; i++){
 int ret = solve(0);
 System.out.println(ret == INF ? -1 : ret);
 ```
+- When using `Queue` in `C++`, following code is effective and efficient as it doesn't require a `struct` data type, rather using a `generic` data type:
+```cpp
+#include <queue>
+
+int main(){
+	queue<int, pair<int, int>> que;		// (int, (int, int))
+	que.push( 1 , pair<int, int>(2, 3));	// ( 1 , ( 2 ,  3 ))
+
+	int one = que.front().first;
+	int two = que.front().second.first;
+	int three = que.front().second.second;
+
+	que.pop();
+}
+```
+
 <br></br>
 - Since java is run on a jvm(java virtual machine), it requires much more resources and run-time than most of other languages; therefore, this is taken into account during the grading process.
 <br></br>
