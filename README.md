@@ -6,6 +6,7 @@ by Nicholas Taehong Kim.
 - [큰수만들기](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/02_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Main.java): int range overflow occurance
 	- Try BFS to solve this.
 - Need to learn input optimization; input taking process causes error if only handled with a scanner
+- [연구소_14502](https://www.acmicpc.net/problem/14502): Endless loop occurance
 
 ### Study Flow
 - ~~Brute force~~
@@ -55,6 +56,9 @@ by Nicholas Taehong Kim.
 			- No clue on why this is wrong. I'm guessing the problem has to do with condition statements or variable initialization, but no clue on why this is wrong. *FIX IT LATER*
 		- 토마토_7576 ([Link](https://www.acmicpc.net/problem/7576))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/7576.cpp)
+		- 연구소_14502 ([Link](https://www.acmicpc.net/problem/14502))
+			- [**On Progress**: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/14502.cpp)
+			- No clue on why this is wrong; probably the `void: recursiveWall()` with wrong conditions?
 
 
 ### Note
