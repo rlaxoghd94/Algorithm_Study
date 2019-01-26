@@ -59,6 +59,7 @@ by Nicholas Taehong Kim.
 		- 연구소_14502 ([Link](https://www.acmicpc.net/problem/14502))
 			- [**On Progress**: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/14502.cpp)
 			- No clue on why this is wrong; probably the `void: recursiveWall()` with wrong conditions?
+			- Reference Page: [HERE](https://wjdgus2951.tistory.com/80)
 
 
 ### Note
