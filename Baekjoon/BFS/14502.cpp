@@ -1,5 +1,6 @@
 #include <iostream>
 #include <queue>
+#include <vector>
 
 using namespace std;
 
@@ -8,8 +9,9 @@ int temp_board[9][9];
 int N, M;
 int dx[] = {0, 1, 0, -1};
 int dy[] = {1, 0, -1, 0};
-queue<pair<int, int>> q;
+// queue< pair<int, int> > q;
 
+vector<pair<int, int> > virus;
 int ans = 0;
 /*  [Board Value Legend]
  *  0 : empty space
@@ -17,7 +19,7 @@ int ans = 0;
  *  2 : virus
  */
 
-void copyBoard(int a[][9], int b[][9])
+void copyBoard(int (*a)[9], int (*b)[9])
 {
     for (int i = 0; i < N; i++)
         for (int j = 0; j < M; j++)
@@ -31,19 +33,19 @@ void BFS()
     int afterWall[9][9];
     copyBoard(afterWall, temp_board);
 
-    cout << "1" << endl;
+    queue<pair<int, int> > q;
+    // 초기 바이러스 좌표를 큐에 넣는다
+    for (int i = 0; i < virus.size(); i++) q.push(virus[i]);
+
     while (!q.empty())
     {
         int yy = q.front().first;
         int xx = q.front().second;
         q.pop();
 
-        cout << "2" << endl;
-
         for (int i = 0; i < 4; i++)
         {
-            int ny = yy + dy[i];
-            int nx = xx + dx[i];
+            int ny = yy + dy[i], nx = xx + dx[i];
 
             if (ny >= 0 && nx >= 0 && ny < N && nx < M)
             {
@@ -51,12 +53,11 @@ void BFS()
                 if (afterWall[ny][nx] == 0)
                 {
                     afterWall[ny][nx] = 2;
-                    q.push(make_pair(ny, nx));
+                    q.push(pair<int, int>(ny, nx));
                 }
             }
         }
     }
-    cout << "3" << endl;
 
     // Caculate MAX safeArea HERE
     int safeArea = 0;
@@ -77,13 +78,13 @@ void BFS()
 void recursiveWall(int cnt)
 {
     // 3 walls constructed, time to spread the virus
-    if (cnt == 3)
+    if (cnt >= 3)
     {
         BFS();
         return;
     }
 
-    // Calculate all outcomes
+    // Calculate all outcomes by building walls in every space possible
     for (int i = 0; i < N; i++)
     {
         for (int j = 0; j < M; j++)
@@ -96,6 +97,7 @@ void recursiveWall(int cnt)
             }
         }
     }
+
 }
 
 int main()
@@ -108,8 +110,10 @@ int main()
         {
             cin >> board[i][j];
 
-            if (board[i][j] == 2)
-                q.push(make_pair(i, j));
+            if (board[i][j] == 2){
+                // q.push(pair<int, int>(i, j));
+                virus.push_back(make_pair(i, j));
+            }
         }
     }
 
@@ -127,7 +131,6 @@ int main()
         }
     }
 
-    cout << "9999\n" << endl;
     cout << ans << endl;
 
     return 0;
