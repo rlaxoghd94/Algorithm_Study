@@ -59,6 +59,8 @@ by Nicholas Taehong Kim.
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/14502.cpp)
 			- Having a `queue` as a global variable messed up the flow of the code. Not quite sure why this is wrong.
 			- Reference Page: [HERE](https://wjdgus2951.tistory.com/80)
+		- 안전영역_2468 ([Link](https://www.acmicpc.net/problem/2468))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/2468.cpp)
 
 
 ### Note
