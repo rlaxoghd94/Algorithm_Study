@@ -45,6 +45,10 @@ by Nicholas Taehong Kim.
 		- 연결요소의개수_11724 ([Link](https://www.acmicpc.net/problem/11724))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/11724.cpp)
 			- Instead of using `int a[1001][1001]`, this code uses `vector<int> a[1001]` for better memory management
+		- 안전영역_2468 ([Link](https://www.acmicpc.net/problem/2468))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/2468.cpp)
+		- 적록색약_10026 ([Link](https://www.acmicpc.net/problem/10026))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/10026.cpp)
 	- **BFS**
 		- 미로탐색_2178 ([Link](https://www.acmicpc.net/problem/2178))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/2178.cpp)
@@ -59,8 +63,6 @@ by Nicholas Taehong Kim.
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/14502.cpp)
 			- Having a `queue` as a global variable messed up the flow of the code. Not quite sure why this is wrong.
 			- Reference Page: [HERE](https://wjdgus2951.tistory.com/80)
-		- 안전영역_2468 ([Link](https://www.acmicpc.net/problem/2468))
-			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/2468.cpp)
 
 
 ### Note
