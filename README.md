@@ -65,6 +65,9 @@ by Nicholas Taehong Kim.
 			- Reference Page: [HERE](https://wjdgus2951.tistory.com/80)
 		- 보물섬_2589 ([Link](https://www.acmicpc.net/problem/2589))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/2589.cpp)
+		- 탈출_3055 ([Link](https://www.acmicpc.net/problem/3055))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/3055.cpp)
+			- Apparently, this code does not work for some of the test cases not available for the users to check. BUT, it works for the ones provided.
 
 
 ### Note
