@@ -10,8 +10,8 @@ by Nicholas Taehong Kim.
 ### Study Flow
 - ~~Brute force~~
 - ~~Greedy~~
-- **DFS/BFS** <-- current activity
-- Dynamic
+- ~~DFS/BFS~~
+- **Dynamic Programming** <-- current activity
 - Back-tracking
 - Sort
 - Hash
