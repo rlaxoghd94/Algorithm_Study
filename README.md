@@ -8,6 +8,7 @@ by Nicholas Taehong Kim.
 - Need to learn input optimization; input taking process causes error if only handled with a scanner
 
 ### Study Flow
+
 - ~~Brute force~~
 - ~~Greedy~~
 - ~~DFS/BFS~~
@@ -17,6 +18,7 @@ by Nicholas Taehong Kim.
 - Hash
 
 ### Progress
+
 - ***Programmers_kr***
 	- **Greedy**
 		- 01_체육복 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42862))
