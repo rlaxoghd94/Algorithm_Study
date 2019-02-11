@@ -70,7 +70,10 @@ by Nicholas Taehong Kim.
 		- 탈출_3055 ([Link](https://www.acmicpc.net/problem/3055))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/3055.cpp)
 			- Apparently, this code does not work for some of the test cases not available for the users to check. BUT, it works for the ones provided.
-
+	- **Dynamic Programming**
+		- 1로만들기_1463 ([Link](https://www.acmicpc.net/problem/1463))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/1463.cpp)
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/1463.java)
 
 ### Note
 - When taking inputs in `Java`, following code is worth using:
