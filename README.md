@@ -83,6 +83,7 @@ by Nicholas Taehong Kim.
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/2579.cpp)
 
 ### Note
+
 - When taking inputs in `Java`, following code is worth using:
 ```java
 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
