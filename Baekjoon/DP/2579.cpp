@@ -27,19 +27,19 @@ int main() {
     
     /*
      * According to the conditions given,
-     * 1. you can climb a single step or a double steps on the stair
-     * 2. you mustn't climb on 3 consecutive steps; excluding the starting step
+     * 1. you can climb a single step or skip a step on the stair
+     * 2. you mustn't step on 3 consecutive stairs; excluding the starting point
      * 3. you must step on the highest stair
      * 
-     * if we apprach this focusing on the 3rd condition, we can come up with the following relation:
+     * if we apprach this focusing on the 3rd condition, we can come up with the following relations:
      * let stair count be (int: N),
-     * - we must step on 'N'
-     * - we could step on either n-1 or n-2
-     *      - case n-1:
-     *          + you can't step on n-2, b/c it violates the 2nd condition, therefore
-     *              -> dp[n] = val(n) + val(n-1) + dp[n-3]
-     *      - case n-2:
-     *          + dp[n] = val(n) + dp[n-2]
+     * - we must step on 'N' according to the 3rd condition
+     * - we could step on either N-1 or N-2 before we step on N
+     *      - case N-1:
+     *          + you can't step on N-2, b/c it violates the 2nd condition, therefore
+     *              -> dp[N] = val[N] + val(N-1) + dp[N-3]
+     *      - case N-2:
+     *          + dp[N] = val[N] + dp[N-2]
      * 
      */ 
 
