@@ -74,6 +74,8 @@ by Nicholas Taehong Kim.
 		- 1로만들기_1463 ([Link](https://www.acmicpc.net/problem/1463))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/1463.cpp)
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/1463.java)
+		- 1,2,3더하기_9095 ([Link](https://www.acmicpc.net/problem/9095))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/9095.cpp)
 
 ### Note
 - When taking inputs in `Java`, following code is worth using:
