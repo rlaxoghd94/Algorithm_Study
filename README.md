@@ -76,8 +76,10 @@ by Nicholas Taehong Kim.
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/1463.java)
 		- 1,2,3더하기_9095 ([Link](https://www.acmicpc.net/problem/9095))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/9095.cpp)
-		- 피보나치_1003 ([Link](https://www.acmicpc.net/problem/1003))
+		- 피보나치함수_1003 ([Link](https://www.acmicpc.net/problem/1003))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/1003.cpp)
+		- 계단오르기_2579 ([Link](https://www.acmicpc.net/problem/2579))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/2579.cpp)
 
 ### Note
 - When taking inputs in `Java`, following code is worth using:
