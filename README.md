@@ -81,6 +81,8 @@ by Nicholas Taehong Kim.
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/1003.cpp)
 		- 계단오르기_2579 ([Link](https://www.acmicpc.net/problem/2579))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/2579.cpp)
+		- 정수삼각형_1932 ([Link](https://www.acmicpc.net/problem/1932))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/1932.cpp)
 
 ### Note
 
@@ -125,3 +127,6 @@ int main(){
 <br></br>
  - `Programmers_kr/DFS_BFS/02_타겟넘버` diagram for better comprehension
  ![alt text](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DFS_BFS/02_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84/target_number-diagram.png "Programmers_kr/DFS_BFS/02_타겟넘버 diagram")
+
+<br></br>
+- I feel like `Dynamic Programming` is all about mathematical ability to observe and find the core-relation among the data given, and I lack the ability compared to fellow Korean students.
