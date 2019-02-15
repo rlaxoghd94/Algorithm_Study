@@ -83,6 +83,8 @@ by Nicholas Taehong Kim.
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/2579.cpp)
 		- 정수삼각형_1932 ([Link](https://www.acmicpc.net/problem/1932))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/1932.cpp)
+		- 연속합_1912 ([Link](https://www.acmicpc.net/problem/1912))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/1912.cpp)
 
 ### Note
 
