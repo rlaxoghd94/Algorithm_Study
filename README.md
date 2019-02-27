@@ -87,6 +87,9 @@ by Nicholas Taehong Kim.
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/1912.cpp)
 		- 이친수_2193 ([Link](https://www.acmicpc.net/problem/2193))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/2193.cpp)
+		- 포도주시식_2156 ([Link](https://www.acmicpc.net/problem/2156))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/2156.cpp)
+			- *Comprehend the relations*
 
 ### Note
 
