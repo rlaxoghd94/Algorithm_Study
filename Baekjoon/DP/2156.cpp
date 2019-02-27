@@ -43,6 +43,14 @@ int main() {
     dp[0] = val[0];
     dp[1] = dp[0] + val[1];
 
+    /*
+     * [Quick summary of the relations]
+     * find the max between (int[]: dp) where you,
+     *  1. skip 0 drinks
+     *  2. skip 1 drinks
+     *  3. skip 2 drinks
+     */
+
     for (int i = 2; i < N; i++) {
         dp[i] = max( dp[i-2] + val[i], dp[i-3] + val[i-1] + val[i]);
         dp[i] = max( dp[i-1], dp[i] );
