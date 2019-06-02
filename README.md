@@ -20,6 +20,11 @@ by Nicholas Taehong Kim.
 
 ### Progress
 
+- ***Leet_code***
+	- **Top 100 Liked**
+		- 488_Find_All_Numbers_Disappeared_in_an_Array ([Link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/))
+			- [Answer: java]
+
 - ***Programmers_kr***
 	- **Greedy**
 		- 01_체육복 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42862))
