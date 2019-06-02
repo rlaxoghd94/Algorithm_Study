@@ -23,7 +23,7 @@ by Nicholas Taehong Kim.
 - ***Leet_code***
 	- **Top 100 Liked**
 		- 488_Find_All_Numbers_Disappeared_in_an_Array ([Link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/))
-			- [Answer: java]
+			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/448.java)
 
 - ***Programmers_kr***
 	- **Greedy**
