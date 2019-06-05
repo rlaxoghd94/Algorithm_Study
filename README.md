@@ -26,7 +26,7 @@ by Nicholas Taehong Kim.
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/448.java)
 		- 437_Path_Sum_3 ([Link](https://leetcode.com/problems/path-sum-iii/))
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/437.java)
-		- 581_Shortest_Unsorted_Continuous_Array ([Link](https://leetcode.com/problems/shortet-unsorted-continuous-subarray/))
+		- 581_Shortest_Unsorted_Continuous_Array ([Link](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/))
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/581.java)
 
 
