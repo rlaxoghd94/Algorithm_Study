@@ -15,7 +15,7 @@ by Nicholas Taehong Kim.
 - ~~DFS/BFS~~
 - **Dynamic Programming** <-- current activity
 - Back-tracking
-- Sort
+- ~~Sort~~
 - Hash
 
 ### Progress
@@ -30,6 +30,7 @@ by Nicholas Taehong Kim.
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/581.java)
 		- 101-Symmetric_Tree ([Link](https://leetcode.com/problems/symmetric-tree/))
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/101.java)
+			- Good exercise for BFS comprehension
 
 
 - ***Programmers_kr***
