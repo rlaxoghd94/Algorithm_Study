@@ -35,6 +35,10 @@ by Nicholas Taehong Kim.
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/543.java)
 		- 53-Maximum_Subarray ([Link](https://leetcode.com/problems/maximum-subarray/))
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/53.java)
+		- 438-Find_All_Anagrams_in_a_String ([Link](https://leetcode.com/problems/find-all-anagrams-in-a-string/))
+			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/438.java)
+				- Brute-Force time limit exceeded; need better algorithm
+
 
 
 - ***Programmers_kr***
@@ -154,3 +158,8 @@ int main(){
 
 <br></br>
 - I feel like `Dynamic Programming` is all about mathematical ability to observe and find the core-relation among the data given, and I lack the ability compared to fellow Korean students.
+
+
+<br></br>
+- **Be aware** of the *type of Data Structure* to use
+	- i.e) HashSet does not allow duplicates, ArrayList does. Etc.
