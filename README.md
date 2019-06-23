@@ -40,6 +40,8 @@ by Nicholas Taehong Kim.
 				- Brute-Force time limit exceeded; need better algorithm
 		- 538-Convert_BST_to_Greater_Tree ([Link](https://leetcode.com/problems/convert-bst-to-greater-tree/))
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/538.java)
+		- 3-Longest_Substring_Without_Repeating_Characters ([Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/))
+			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/Medium/3.java)
 
 - ***Programmers_kr***
 	- **Greedy**
