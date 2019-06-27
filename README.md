@@ -42,6 +42,8 @@ by Nicholas Taehong Kim.
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/538.java)
 		- 3-Longest_Substring_Without_Repeating_Characters ([Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/))
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/Medium/3.java)
+		- 22-Generate_Parenthesis ([Link](https://leetcode.com/problems/generate-parenthesis/))
+			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Leet_code/Top_100_Liked/Medium/22.java)
 
 - ***Programmers_kr***
 	- **Greedy**
