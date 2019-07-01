@@ -33,17 +33,21 @@ public class Main {
             vector[to].add(new Node(from, val));
         }
 
+        // find the parent node with the largest link weight
         DFS(1, 0);
-        r = 0;
 
+        r = 0;
         dp = new int[MAX_RANGE];
+
+        // DFS HERE
         DFS(u, 0);
         System.out.println(r);
     }
 
     public static void DFS(int v, int sum) {
         dp[v] = sum;
-
+        
+        // find the maximum weight
         if (dp[v] > r) {
             r = dp[v];
             u = v;
