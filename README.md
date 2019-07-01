@@ -77,6 +77,10 @@ by Nicholas Taehong Kim.
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/2468.cpp)
 		- 적록색약_10026 ([Link](https://www.acmicpc.net/problem/10026))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/10026.cpp)
+		- 트리의지름_1967 ([Link](https://www.acmicpc.net/problem/1967))
+			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/1967.java)
+			- **GREAT EXAMPLE** - uses both *dynamic programming* and *DFS*
+
 	- **BFS**
 		- 미로탐색_2178 ([Link](https://www.acmicpc.net/problem/2178))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/2178.cpp)
