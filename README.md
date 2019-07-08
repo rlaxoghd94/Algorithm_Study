@@ -123,6 +123,9 @@ by Nicholas Taehong Kim.
 			- *Comprehend the relations*
 		- 2xN타일링_11726 ([Link](https://www.acmicpc.net/problem/11726))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/11726.java)
+	- **Backtracking**
+		- 부분수열의합_1182 ([Link](https://www.acmicpc.net/problem/1182))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Backtracking/1182.java)
 
 ### Note
 
