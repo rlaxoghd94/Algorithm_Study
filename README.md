@@ -13,8 +13,8 @@ by Nicholas Taehong Kim.
 - ~~Brute force~~
 - ~~Greedy~~
 - ~~DFS/BFS~~
-- **Dynamic Programming** <-- current activity
-- Back-tracking
+- ~~Dynamic Programming~~ 
+- ***Back-tracking*** <-- current activity
 - ~~Sort~~
 - Hash
 
