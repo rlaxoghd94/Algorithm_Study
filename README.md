@@ -78,7 +78,7 @@ by Nicholas Taehong Kim.
 		- 적록색약_10026 ([Link](https://www.acmicpc.net/problem/10026))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/10026.cpp)
 		- 트리의지름_1967 ([Link](https://www.acmicpc.net/problem/1967))
-			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/1967.java)
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/1967.java)
 			- **GREAT EXAMPLE** - uses both *dynamic programming* and *DFS*
 
 	- **BFS**
@@ -100,6 +100,8 @@ by Nicholas Taehong Kim.
 		- 탈출_3055 ([Link](https://www.acmicpc.net/problem/3055))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/3055.cpp)
 			- Apparently, this code does not work for some of the test cases not available for the users to check. BUT, it works for the ones provided.
+		- 벽부수고이동하기_2206 ([Link](https://www.acmicpc.net/problem/2206))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/2206.java)
 	- **Dynamic Programming**
 		- 1로만들기_1463 ([Link](https://www.acmicpc.net/problem/1463))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/1463.cpp)
