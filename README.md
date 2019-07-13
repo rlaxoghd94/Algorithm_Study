@@ -130,6 +130,9 @@ by Nicholas Taehong Kim.
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Backtracking/1759.java)
 		- 좋은수열_2661 ([Link](https://www.acmicpc.net/problem/2661))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Backtracking/2661.java)
+		- N-Queen_9663 ([Link](https://www.acmicpc.net/problem/9663))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Backtracking/9663.java)
+			- *Good example of a backtracking algorithm*
 
 ### Note
 
