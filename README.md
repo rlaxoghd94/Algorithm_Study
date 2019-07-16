@@ -134,6 +134,8 @@ by Nicholas Taehong Kim.
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Backtracking/9663.java)
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Backtracking/9663-2D.java)
 			- *Good example of a backtracking algorithm*
+		- 숫자판점프_2210 ([Link](https://www.acmicpc.net/problem/2210))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Backtracking/2210.java)
 
 ### Note
 
