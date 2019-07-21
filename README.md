@@ -144,6 +144,9 @@ by Nicholas Taehong Kim.
 		- 스타트와링크_13889 ([Link](https://www.acmicpc.net/problem/13889))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Samsung/13889.java)
 			- Algorithm Type: *Backtracking*
+		- 퇴사_14501 ([Link](https://www.acmicpc.net/problem/14501))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Samsung/14501.java)
+			- Algorithm Type: *Dynamic Programming*
 
 ### Note
 
