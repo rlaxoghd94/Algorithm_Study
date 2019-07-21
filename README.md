@@ -147,6 +147,9 @@ by Nicholas Taehong Kim.
 		- 퇴사_14501 ([Link](https://www.acmicpc.net/problem/14501))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Samsung/14501.java)
 			- Algorithm Type: *Dynamic Programming*
+		- 연산자끼워넣기_14888 ([Link](https://www.acmicpc.net/problem/14888))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Samsung/14888.java)
+			- Algorithm Type: *DFS & Backtracking*
 
 ### Note
 
