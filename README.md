@@ -125,6 +125,8 @@ by Nicholas Taehong Kim.
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/11726.java)
 		- 2차원배열의합_2167 ([Link](https://www.acmicpc.net/problem/2167))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/2167.java)	
+		- 가장긴감소하는수열_11722 ([Link](https://www.acmicpc.net/problem/11722))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DP/11722.java)	
 
 	- **Backtracking**
 		- 부분수열의합_1182 ([Link](https://www.acmicpc.net/problem/1182))
