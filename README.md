@@ -55,6 +55,9 @@ by Nicholas Taehong Kim.
 		- ***02_타겟넘버*** ([Link](https://programmers.co.kr/learn/courses/30/lessons/43165))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DFS_BFS/02_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84/Main.cpp)
 			- Great example of a DFS algorithm (*Worth looking at again*)
+	- **Stack/Queue**
+		- 01_프린터 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42587?language=java))
+			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Prgrammers_kr/Stack_Queue/01_Printer.java)
 
 - ***Baekjoon***
 	- **DFS**
