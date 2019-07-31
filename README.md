@@ -57,8 +57,8 @@ by Nicholas Taehong Kim.
 			- Great example of a DFS algorithm (*Worth looking at again*)
 	- **Stack/Queue**
 		- 01_프린터 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42587?language=java))
-			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Prgrammers_kr/Stack_Queue/01_Printer.java)
-
+			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Stack_Queue/01_Printer.java)
+a
 - ***Baekjoon***
 	- **DFS**
 		- 단지번호붙이기_2667 ([Link](https://www.acmicpc.net/problem/2667))
