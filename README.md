@@ -58,7 +58,7 @@ by Nicholas Taehong Kim.
 	- **Stack/Queue**
 		- 01_프린터 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42587?language=java))
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Stack_Queue/01_Printer.java)
-a
+
 - ***Baekjoon***
 	- **DFS**
 		- 단지번호붙이기_2667 ([Link](https://www.acmicpc.net/problem/2667))
@@ -83,7 +83,9 @@ a
 		- 트리의지름_1967 ([Link](https://www.acmicpc.net/problem/1967))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/1967.java)
 			- **GREAT EXAMPLE** - uses both *dynamic programming* and *DFS*
-
+		-숫자고르기_2668 ([Link](https://www.acmicpc.net/problem/2668))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/DFS/2668.java)
+			- A bit of mixture of backtracking and DFS
 	- **BFS**
 		- 미로탐색_2178 ([Link](https://www.acmicpc.net/problem/2178))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/BFS/2178.cpp)
