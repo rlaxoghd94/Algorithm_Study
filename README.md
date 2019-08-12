@@ -51,6 +51,8 @@ by Nicholas Taehong Kim.
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/01_%EC%B2%B4%EC%9C%A1%EB%B3%B5/Main.java)
 		- 02_큰수만들기 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42883))
 			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/02_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0/Main.java)
+		- 02_구명보트 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42885))
+			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Greedy/02_구명보트/Main.java)
 	- **DFS/BFS**
 		- ***02_타겟넘버*** ([Link](https://programmers.co.kr/learn/courses/30/lessons/43165))
 			- [Answer: C++](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DFS_BFS/02_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84/Main.cpp)
