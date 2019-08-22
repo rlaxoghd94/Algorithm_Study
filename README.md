@@ -61,7 +61,10 @@ by Nicholas Taehong Kim.
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DFS_BFS/03_여행경로/Main.java)
 	- **Stack/Queue**
 		- 01_프린터 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42587?language=java))
-			- [Answer: java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Stack_Queue/01_Printer.java)
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Stack_Queue/01_Printer.java)
+	- **DP**
+		- 03_N으로표현 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42895))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DP/03_N으로표현/Main.java)
 
 - ***Baekjoon***
 	- **DFS**
