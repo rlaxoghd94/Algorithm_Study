@@ -62,6 +62,8 @@ by Nicholas Taehong Kim.
 	- **Stack/Queue**
 		- 01_프린터 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42587?language=java))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Stack_Queue/01_Printer.java)
+		- 02_탑 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42588))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Stack_Queue/02_탑/Main.java)
 	- **DP**
 		- 03_N으로표현 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42895))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DP/03_N으로표현/Main.java)
