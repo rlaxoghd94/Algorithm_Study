@@ -68,6 +68,8 @@ by Nicholas Taehong Kim.
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Stack_Queue/02_쇠막대기/Main.java)
 		- 02_다리를지나는트럭 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42583))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Stack_Queue/02_다리를지나는트럭/Main.java)
+		- 02_기능개발 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42586))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Stack_Queue/02_기능개발/Main.java)
 	- **DP**
 		- 03_N으로표현 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42895))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DP/03_N으로표현/Main.java)
