@@ -75,8 +75,9 @@ by Nicholas Taehong Kim.
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/DP/03_N으로표현/Main.java)
 	- **Hash**
 		- 01_완주하지못한선수 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42576))
-			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Hash/02_완주하지못한선수/Main.java)
-
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Hash/01_완주하지못한선수/Main.java)
+		- 02_전화번호목록 ([Link](https://programmers.co.kr/learn/courses/30/lessons/42577))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Programmers_kr/Hash/02_전화번호목록/Main.java)
 - ***Baekjoon***
 	- **DFS**
 		- 단지번호붙이기_2667 ([Link](https://www.acmicpc.net/problem/2667))
