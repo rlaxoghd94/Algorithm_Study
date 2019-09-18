@@ -180,6 +180,9 @@ by Nicholas Taehong Kim.
 		- 연산자끼워넣기_14888 ([Link](https://www.acmicpc.net/problem/14888))
 			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Samsung/14888.java)
 			- Algorithm Type: *DFS & Backtracking*
+		- 로봇청소기_14503 ([Link](https://www.acmicpc.net/problem/14503))
+			- [Answer: Java](https://github.com/rlaxoghd94/Algorithm_Study/blob/master/Baekjoon/Samsung/14503.java)
+			- Algorithm Type: *Simulation*
 
 ### Note
 
@@ -232,3 +235,9 @@ int main(){
 <br></br>
 - **Be aware** of the *type of Data Structure* to use
 	- i.e) HashSet does not allow duplicates, ArrayList does. Etc.
+
+<br></br>
+- There are **two** ways to approach a `Combination` problem:
+	- Recursive
+	- Backtracking
+	- [Check this link](https://bcp0109.tistory.com/15)
