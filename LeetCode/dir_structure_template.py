@@ -1,7 +1,20 @@
 import os
 
 
-TEMPLATE_FILES = ['my_tries.py', 'answer.py', 'question.md']
+TEMPLATE_FILES = [
+        {
+            'file_name': 'my_tries.py',
+            'content': '"""Nic\'s approach\n"""'
+        },
+        {
+            'file_name': 'answer.py',
+            'content': '"""LeetCode community answer\n"""'
+        },
+        {
+            'file_name': 'question.md',
+            'content': '#'
+        }
+    ]
 
 
 if __name__ == '__main__':
@@ -9,7 +22,8 @@ if __name__ == '__main__':
     base_dir = f'./{folder_name}'
     try:
         os.mkdir(base_dir)
-        for template_file in TEMPLATE_FILES:
-            open(f'{base_dir}/{template_file}', 'a').close()
+        for template_file_info in TEMPLATE_FILES:
+            with open(f'{base_dir}/{template_file_info["file_name"]}', 'a') as file:
+                file.write(template_file_info['content'])
     except Exception as e:
         print(e)
